@@ -93,16 +93,8 @@ The dataset contains **11,000+ records** including:
   - Healthcare  
   - Aviation  
 
----
+--- ## Sample Visualization including Graphs - bar & pie charts
 
-## 📷 Sample Visualizations
-
-
-```html
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_1" width="400"/>
-  <img src="YOUR_IMAGE_LINK_2" width="400"/>
-</p>
 
 ## 🚀 How to Run This Project
 
@@ -119,13 +111,16 @@ git clone https://github.com/your-username/your-repo-name.git
 -Customer segmentation
 -Regional performance
 -Product demand trends
+-Helping businesses make smart, data-driven decisions 
 
-Helping businesses make smart, data-driven decisions 📊
+---
 
 ## 👤 Author: Yogesh Gadekar
 
 - 📧 Email: yogeshgadekar141@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/yogesh-gadekar-a1231b189
+
+---
 
 ## ⭐ Support
 
@@ -134,3 +129,5 @@ Helping businesses make smart, data-driven decisions 📊
 -⭐ Star this repository
 -🔗 Connect on LinkedIn
 -📢 Share your feedback
+
+---
