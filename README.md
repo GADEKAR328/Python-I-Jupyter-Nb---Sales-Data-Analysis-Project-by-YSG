@@ -105,7 +105,7 @@ The dataset contains **11,000+ records** including:
 ## 🚀 How to Run This Project
 
 - 📥 Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/GADEKAR328/Python-I-Jupyter-Nb---Sales-Data-Analysis-Project-by-YSG.git
   - 📂 Open in Jupyter Notebook
   - 📦 Install Required Libraries
 -pip install pandas numpy matplotlib seaborn
